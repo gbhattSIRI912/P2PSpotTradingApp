@@ -19,7 +19,6 @@ struct PortfolioView: View {
     @State private var options: [String] = ["Option 1", "Option 2", "Option 3"]
     @State private var latestTotalAmount: String = ""
     @State private var total_gain_percentage: String = ""
-    
     @State private var timer: Timer?
     
     var body: some View {
