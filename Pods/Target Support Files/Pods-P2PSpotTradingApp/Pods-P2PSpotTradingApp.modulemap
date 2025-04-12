@@ -1,0 +1,6 @@
+framework module Pods_P2PSpotTradingApp {
+  umbrella header "Pods-P2PSpotTradingApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
